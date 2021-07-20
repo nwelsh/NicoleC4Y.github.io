@@ -67,3 +67,7 @@ footer {
     color: white;
 } 
   
+body {
+ background-color: #DBDBDB; 
+ font-family: monospace;
+}
