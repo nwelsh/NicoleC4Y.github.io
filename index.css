@@ -1,3 +1,4 @@
+
 h1 {
  color: blue; 
 }
@@ -61,7 +62,7 @@ ul {
   }
 
 footer {
-    background-color: #777;
+    background-color: black ;
     padding: 10px;
     text-align: center;
     color: white;
